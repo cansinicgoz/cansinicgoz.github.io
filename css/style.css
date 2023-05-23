@@ -424,7 +424,7 @@ body.dark .loader_line:after{
 	display: inline-block;
 }
 .iknow_tm_topbar .logo img{
-	max-width: 125px;
+	max-width: 225px;
 }
 .iknow_tm_topbar .right{
 	display: flex;
@@ -4996,7 +4996,7 @@ input[type=number] {
 	.iknow_tm_hero_extra .hero_content .left .name{font-size: 48px;margin-bottom: 20px;}
 	.iknow_tm_hero_extra .hero_content .left .text{font-size: 16px;margin-bottom: 25px;}
 	
-	.iknow_tm_topbar .logo img{max-width: 90px;}
+	.iknow_tm_topbar .logo img{max-width: 120px;}
 	.iknow_tm_main_title span{font-size: 18px;}
 	.iknow_tm_main_title h3{font-size: 30px;}
 	.iknow_tm_about .right .bigger_text p{font-size: 19px;}
